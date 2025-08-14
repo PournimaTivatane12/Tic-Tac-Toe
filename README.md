@@ -1,7 +1,12 @@
 
 # 🎮 Tic-Tac-Toe in Java using DSA Concepts
 
-A simple **Tic-Tac-Toe game** built using **Java** and basic **Data Structures & Algorithms (DSA)** concepts like arrays and loops. This project is a great way to practice logical thinking, array usage, and control flow in Java. The game is built to run on the command line and supports 2-player gameplay.
+# Architecture 
+<img width="2800" height="2000" alt="image" src="https://github.com/user-attachments/assets/c657bc1b-8368-4cce-8f5e-246928204f5b" />
+
+
+---
+**A simple **Tic-Tac-Toe game** built using **Java** and basic **Data Structures & Algorithms (DSA)** concepts like arrays and loops. This project is a great way to practice logical thinking, array usage, and control flow in Java. The game is built to run on the command line and supports 2-player gameplay.**
 
 ---
 
@@ -35,24 +40,21 @@ Tic-Tac-Toe/
 ## 🚀 How to Run
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/PournimaTivatane12/Tic-Tac-Toe.git
-2. Navigate to the project folder
+
+ git clone https://github.com/PournimaTivatane12/Tic-Tac-Toe.git
+   
+3. Navigate to the project folder
 cd Tic-Tac-Toe
 
-3. Compile and run the program
+4. Compile and run the program
  javac TicTacToe.java
 java TicTacToe
 
-   |   |   
------------
-   |   |   
------------
-   |   |   
 
 Player X, enter your move (1-9):
 
 🧠 What I Learned
+
 Practiced Java fundamentals
 
 Implemented 2D array logic
